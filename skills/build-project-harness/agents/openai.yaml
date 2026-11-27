@@ -1,4 +1,0 @@
-interface:
-  display_name: "构建项目 Harness"
-  short_description: "从项目与历史任务中逐项确认决策并沉淀可复用 Harness"
-  default_prompt: "使用 $build-project-harness 审计当前项目及相关历史任务，逐项与我确认有效决策，并创建或更新项目 Harness。"
